@@ -1,1 +1,1 @@
-# Diabetes-risk-preditcion-using-machine-learning
+# GLUCO RISK ANALYZER
